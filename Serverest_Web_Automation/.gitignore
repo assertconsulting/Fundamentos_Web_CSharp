@@ -1,0 +1,48 @@
+
+# Arquivos de Bytecode
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.obj
+*.o
+*.pdb
+
+# Arquivos de Build
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Diretórios de pacotes
+packages/
+*.nupkg
+# Os pacotes NuGet são incluídos no arquivo packages.config e podem ser restaurados usando o comando "nuget restore"
+# packages.config, *.nuspec e conteúdos relacionados ao NuGet são incluídos pelo padrão.
+
+# Ferramentas de compilação do MSBuild
+*.pfx
+*.publishsettings
+
+# Arquivos de configuração do usuário
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pyc
+*.pyo
+
+# Ferramentas de compilação do Visual Studio
+.vs/
+
+# Ferramentas de compilação do Mono
+[Mm]onoDevelop/
+*.pidb
+
+# Arquivos do Rider
+.idea/
+
+# Arquivos de cache local
+*.cache
+*.csproj.FilesWrittenAbsolute.txt

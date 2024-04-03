@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33103.201
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serverest_Web_Automation", "Serverest_Web_Automation.csproj", "{D28BE9F5-BFE2-4E6E-8271-5F03F669E7D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28BE9F5-BFE2-4E6E-8271-5F03F669E7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28BE9F5-BFE2-4E6E-8271-5F03F669E7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28BE9F5-BFE2-4E6E-8271-5F03F669E7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28BE9F5-BFE2-4E6E-8271-5F03F669E7D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64551C2F-F53E-4E1E-B951-01A4AF38A4C1}
+	EndGlobalSection
+EndGlobal
